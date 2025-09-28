@@ -4,9 +4,9 @@ Thank you for your interest in contributing to the Team Playbook project! We enc
 
 ## How to Contribute
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
+2. Create a new branch (e.g., `git checkout -b feature/your-feature-name`).
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
+4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a Pull Request.
 
 ## Reporting Issues
