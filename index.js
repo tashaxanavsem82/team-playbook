@@ -4,7 +4,7 @@ const port = 3000;
 
 app.get('/', (req, res) => {
   const currentDate = new Date().toLocaleDateString();
-  res.send(`Welcome to the Team Playbook! Today's date is ${currentDate}.`);
+  res.send(`Hello! Welcome to the Team Playbook! Today's date is ${currentDate}.`);
 });
 
 app.listen(port, () => {
