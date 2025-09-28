@@ -1,0 +1,14 @@
+{
+  "name": "team-playbook",
+  "version": "1.0.0",
+  "description": "A playbook for improving team processes and collaboration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
