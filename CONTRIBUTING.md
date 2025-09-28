@@ -7,7 +7,7 @@ Thank you for your interest in contributing to the Team Playbook project! We enc
 2. Create a new branch (e.g., `git checkout -b feature/your-feature-name`).
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a Pull Request.
+5. Open a Pull Request, including a clear description of your changes.
 
 ## Reporting Issues
 If you encounter any issues, please open an issue in the GitHub repository, providing as much detail as possible.
